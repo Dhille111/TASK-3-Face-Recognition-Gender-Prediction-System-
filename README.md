@@ -76,7 +76,8 @@ The OpenCV gender model files are expected at:
 
 If those files are missing, the code still runs and falls back to name-based gender hints.
 ## output-images
-<img width="1024" height="539" alt="image" src="https://github.com/user-attachments/assets/170460d8-eafe-43d7-b4b4-b2d5bc5eaff8" />
+<img width="1920" height="1011" alt="image" src="https://github.com/user-attachments/assets/2f60da1e-8803-4796-9a2f-17a2d1f05875" />
+
 
 
 ## Notes
